@@ -14,7 +14,6 @@
 
 <!-- Some Cool Effects -->
 <p align="center">
-  <img src="https://onlinegiftools.com/images/examples-onlinegiftools/music-screensaver.gif" alt="Cool Image 1">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Cool Image 2">
   <!-- Add more cool images as you like -->
 </p>
