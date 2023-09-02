@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hello, I'm Utkarsh 👋</h1>
+<h1 align="center">Hello, I'm Utkarsh 👋 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h1>
 
 <!-- Social Media Links -->
 <p align="center">
