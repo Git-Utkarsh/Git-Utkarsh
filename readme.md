@@ -10,6 +10,18 @@
 <!-- About Me -->
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate developer who loves to code and create amazing things.
+  ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+
+<h3> 👨‍💻 Languages I use</h3>
+
+<!--START_SECTION:colourise-->
+<p align=center>
+<img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/-C++-00FF80?style=for-the-badge&logo=c%2b%2b"/>
+<img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/-Shell-7F00FF?style=for-the-badge&logo=gnu-bash"/>
+<!--END_SECTION:colourise-->
 </p>
 
 <!-- Some Cool Effects -->
