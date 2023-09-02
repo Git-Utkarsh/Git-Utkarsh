@@ -24,7 +24,7 @@
 <!--END_SECTION:colourise-->
 </p>
 
-<h3> 👨‍💻 Software and Tools I use</h3>
+<h3> 💻 Software and Tools I use</h3>
      <p align=center>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
