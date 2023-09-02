@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hello, I'm Utkarsh 👋 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h1>
+# Hello, I'm Utkarsh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 <!-- Social Media Links -->
 <p align="center">
@@ -10,7 +10,6 @@
 <!-- About Me -->
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate developer who loves to code and create amazing things.
-  ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 <h3> 👨‍💻 Languages I use</h3>
 
