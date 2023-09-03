@@ -42,7 +42,6 @@
 <!-- Footer -->
 <p align="center">
   <a href="https://github.com/Git-Utkarsh/"><img src="https://img.shields.io/github/followers/your_username.svg?style=social&label=Follow" alt="GitHub"></a>
-  <a href="https://twitter.com/el_utkarsh/"><img src="https://img.shields.io/twitter/follow/your_twitter_handle.svg?style=social&label=Follow" alt="Twitter"></a>
 </p>
 
 <!-- Additional Information (optional) -->
