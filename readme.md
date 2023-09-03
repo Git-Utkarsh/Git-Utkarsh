@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Python and C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Git-Utkarsh/](https://github.com/Git-Utkarsh/)
+- 👨‍💻 All of my projects are available at [Git-Utkarsh](https://github.com/Git-Utkarsh?tab=repositories)
 
 - 💬 Ask me about **Python**
 
