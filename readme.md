@@ -13,7 +13,7 @@
 - 💬 Ask me about **Python**
 
  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=git-utkarsh&show_icons=true&locale=en" alt="git-utkarsh" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=git-utkarsh&" alt="git-utkarsh" /></p> <br>
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=git-utkarsh&" alt="git-utkarsh" /></p> <br> -->
 <h3 align="center" >Connect with me:</h3>
 <p align="left">
 </p>
