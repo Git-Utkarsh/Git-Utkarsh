@@ -3,6 +3,28 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Utkarsh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 <!-- Social Media Links -->
+<p align="left">
+</p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-utkarsh&show_icons=true&locale=en" alt="git-utkarsh" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-utkarsh&" alt="git-utkarsh" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-utkarsh&show_icons=true&locale=en&layout=compact" alt="git-utkarsh" /></p>
+
+<h3 align="center"></h3>
+
+- 🔭 I’m currently working on [StudentManagementSystem](https://github.com/Git-Utkarsh/SchoolManagementSystem)
+
+- 🌱 I’m currently learning **Python and C++**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Git-Utkarsh/](https://github.com/Git-Utkarsh/)
+
+- 💬 Ask me about **Python**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <p align="center">
   <a href="https://www.instagram.com/__el___professor__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/el_utkarsh"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
