@@ -1,10 +1,7 @@
 <!-- Header -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=git-utkarsh&label=Profile%20views&color=0e75b6&style=flat" alt="git-utkarsh" /> </p>
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Utkarsh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-
-<!-- Social Media Links -->
-<p align="left">
-</p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-utkarsh&show_icons=true&locale=en" alt="git-utkarsh" /></p> -->
 
@@ -48,6 +45,7 @@
 <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <!--END_SECTION:colourise-->
 </p>
+
 
 <h3> 💻 Software and Tools I use</h3>
      <p align=center>
