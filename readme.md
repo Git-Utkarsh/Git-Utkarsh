@@ -3,6 +3,7 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Utkarsh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-utkarsh&show_icons=true&locale=en&layout=compact" alt="git-utkarsh"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=git-utkarsh&" alt="git-utkarsh"/></p>  <br>
+
 - 🔭 I’m currently working on [StudentManagementSystem](https://github.com/Git-Utkarsh/SchoolManagementSystem)
 
 - 🌱 I’m currently learning **Python and C++**
