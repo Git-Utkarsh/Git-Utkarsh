@@ -39,11 +39,6 @@
   <!-- Add more cool images as you like -->
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <a href="https://github.com/Git-Utkarsh/"><img src="https://img.shields.io/github/followers/your_username.svg?style=social&label=Follow" alt="GitHub"></a>
-</p>
-
 <!-- Additional Information (optional) -->
 <p align="center">
   🌟 Star my repositories if you find them interesting!
