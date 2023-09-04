@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/-C++-00FF80?style=for-the-badge&logo=c%2b%2b"/>
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Shell-7F00FF?style=for-the-badge&logo=gnu-bash"/>
 <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
