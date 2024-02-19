@@ -4,8 +4,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-utkarsh&show_icons=true&locale=en&layout=compact" alt="git-utkarsh"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=git-utkarsh&" alt="git-utkarsh"/></p>  <br>
 
-- 🔭 I’m currently working on [Obstacle-Avoiding-Robot](https://github.com/Git-Utkarsh/Obstacle-Avoiding-Robot)
-
 - 🌱 I’m currently learning **Python and C++**
 
 - 👨‍💻 All of my projects are available at [Git-Utkarsh](https://github.com/Git-Utkarsh?tab=repositories)
