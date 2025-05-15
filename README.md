@@ -55,8 +55,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://x.com/HeyUtkarshX">
-    <img src="https://img.shields.io/badge/-@HeyUtkarshX-1DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=000000" alt="X Profile" />
+  <a href="https://x.com/UtkDev">
+    <img src="https://img.shields.io/badge/-@UtkDev-1DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=000000" alt="X Profile" />
   </a>
 </p>
 
